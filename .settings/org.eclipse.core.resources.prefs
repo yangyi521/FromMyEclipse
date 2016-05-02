@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//WebRoot/admin_index.jsp=UTF-8
+encoding//WebRoot/get_book_list.jsp=UTF-8
+encoding//src/Bean=GBK
+encoding//src/Bean/Borrowbooks.java=UTF-8
+encoding//src/Dao/ILoanLogDao.java=UTF-8
+encoding//src/DaoImpl=GBK
+encoding//src/DaoImpl/ReBookDaoImpl.java=UTF-8
+encoding//src/Servlet=GBK
